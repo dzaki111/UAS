@@ -1,5 +1,7 @@
 # UAS
-
+# NAMA  = DZAKI ARIF RAHMAN
+# NIM   = 312410312
+# KELAS = TI.24.A4
 ## tugas
 ![Screenshot 2025-01-02 203312](https://github.com/user-attachments/assets/ce0a811c-e167-4826-8b16-fd0bfe9b5848)
 
