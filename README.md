@@ -1,5 +1,8 @@
 # UAS
 
+## tugas
+![Screenshot 2025-01-02 203312](https://github.com/user-attachments/assets/ce0a811c-e167-4826-8b16-fd0bfe9b5848)
+
 ## Deskripsi Program
 Program ini adalah sistem manajemen booking villa berbasis konsol. Pengguna dapat melakukan booking villa dengan memilih villa yang tersedia, memasukkan detail booking, dan melihat daftar booking yang telah dibuat.
 
@@ -23,6 +26,9 @@ Program ini terdiri dari tiga komponen utama:
    - **3. Keluar**: Mengakhiri program.
 
 ---
+## Screenshout vsc kodingan
+
+![UAS semester 1](https://github.com/user-attachments/assets/8852c4a4-7ed4-4bc1-b19c-ce2e2f7d4105)
 
 ## Struktur Program
 ### 1. **Class Data**
@@ -180,13 +186,13 @@ Menu:")
 ---
 
 ## Daftar Villa
-| ID | Nama           | Tipe                  | Harga         |
-|----|----------------|-----------------------|---------------|
-| 1  | Villa dzaki    | biasa                 | Rp 1,000,000  |
-| 2  | Villa arif     | mewah                 | Rp 1,500,000  |
-| 3  | Villa rahman   | mewah pake banget     | Rp 2,000,000  |
+![Screenshot 2025-01-07 111951](https://github.com/user-attachments/assets/7017282c-74b7-429f-a9c7-52faa412e007)
+
 
 ---
+## Screenshout output 
+![image](https://github.com/user-attachments/assets/a8137ccc-18e3-432c-9b7a-76d3c1da5dcd)
+
 
 ## Catatan
 - Program ini menggunakan format tanggal `YYYY-MM-DD`.
@@ -195,8 +201,3 @@ Menu:")
 
 ---
 
-## Pengembangan Lebih Lanjut
-- Menyimpan data booking ke file eksternal (CSV/JSON) agar tidak hilang saat program ditutup.
-- Menambahkan fitur pembatalan booking.
-- Memperluas daftar villa atau menambahkan fitur pencarian villa berdasarkan kriteria tertentu.
-- Mengembangkan tampilan berbasis GUI atau web untuk meningkatkan user experience.
